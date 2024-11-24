@@ -1,6 +1,6 @@
 package Modulo01.Clase01;
 import java.util.Scanner;
-public class Ejercicio04 {
+public class Palabras {
     public static void main(String[] args) {
 
       Scanner scanner = new Scanner (System.in); 
